@@ -1,0 +1,3 @@
+DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0AdLIrYczuXD6wc0tuyu3ieYtpGR5fhRJQfvkCmK9mAMUbLo-nAtEH8s7A8sazAMOLh4EnA" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)
+onsent_linux.cc(31)] No host config file found.
+Enter a PIN of at least six digits: 151515

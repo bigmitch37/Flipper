@@ -1,0 +1,163 @@
+=== System === 
+
+--- System Info ---
+Snapshot Time: 5/14/24, 4:27:49 PM CST
+Board Name: grabbiter
+Marketing Name: TBD
+CpuModel Name: Intel(R) Celeron(R) N4020 CPU @ 1.10GHz
+Total Memory (kib): 3879248
+Thread Count:  2
+Cpu Max Clock Speed (kHz):  2800000
+Version: 126.15871.0
+Has Battery: true
+
+--- Battery Charge Status ---
+Battery State: kDischarging
+Power Source: kDisconnected
+Power Time: 2 hours and 12 minutes
+Current Now (mA): 230
+Chage Now (mAh): 1323
+
+--- Battery Health ---
+Charge Full Now (mAh): 3070
+Charge Full Design (mAh): 3685
+Cycle Count: 61
+Wear Percentage: 83
+
+--- Memory Usage ---
+Total Memory (kib): 3879248
+Available Memory (kib): 442156
+Free Memory (kib): 112920
+
+--- Cpu Usage ---
+Usage User (%): 12
+Usage System (%): 3
+Usage Free (%): 83
+Avg Temp (C): 47
+Current scaled frequency (kHz): 2280146
+
+
+--- Test Routines --- 
+
+5/14/24, 1:23:19 AM - BatteryDischarge - Started
+5/14/24, 1:23:49 AM - BatteryDischarge - Passed
+5/14/24, 1:24:17 AM - Memory - Started
+5/14/24, 1:40:57 AM - Memory - Passed
+5/14/24, 3:41:45 PM - CpuStress - Started
+5/14/24, 3:42:05 PM - Inflight Routine Cancelled
+
+=== Networking === 
+
+--- Network Info ---
+
+Name: thisjustin
+Type: WiFi
+State: Online
+Active: True
+MAC Address: 90:CC:DF:84:9F:4F
+Signal Strength: 66
+Frequency: 2462
+SSID: thisjustin
+BSSID: F4:F5:E8:6B:21:5C
+Security: PSK (WPA or RSN)
+Gateway: 192.168.1.1
+IP Address: 192.168.1.110
+Name Servers: 192.168.1.1
+Subnet Mask: 255.255.255.0
+
+--- Test Routines --- 
+
+5/14/24, 3:42:05 PM - GatewayCanBePinged - Started
+5/14/24, 3:42:19 PM - GatewayCanBePinged - Failed
+5/14/24, 3:42:19 PM - LanConnectivity - Started
+5/14/24, 3:42:20 PM - LanConnectivity - Passed
+5/14/24, 3:42:20 PM - ArcPing - Started
+5/14/24, 3:42:27 PM - ArcPing - Failed
+5/14/24, 3:42:27 PM - DnsResolverPresent - Started
+5/14/24, 3:42:28 PM - DnsResolverPresent - Passed
+5/14/24, 3:42:28 PM - DnsResolution - Started
+5/14/24, 3:42:29 PM - DnsResolution - Passed
+5/14/24, 3:42:29 PM - DnsLatency - Started
+5/14/24, 3:42:30 PM - DnsLatency - Passed
+5/14/24, 3:42:30 PM - ArcDnsResolution - Started
+5/14/24, 3:42:31 PM - ArcDnsResolution - Passed
+5/14/24, 3:42:31 PM - SignalStrength - Started
+5/14/24, 3:42:32 PM - SignalStrength - Passed
+5/14/24, 3:42:32 PM - CaptivePortal - Started
+5/14/24, 3:42:33 PM - CaptivePortal - Passed
+5/14/24, 3:42:33 PM - HasSecureWiFiConnection - Started
+5/14/24, 3:42:34 PM - HasSecureWiFiConnection - Passed
+5/14/24, 3:42:34 PM - HttpsFirewall - Started
+5/14/24, 3:42:36 PM - HttpsFirewall - Passed
+5/14/24, 3:42:36 PM - HttpFirewall - Started
+5/14/24, 3:42:37 PM - HttpFirewall - Passed
+5/14/24, 3:42:37 PM - HttpsLatency - Started
+5/14/24, 3:42:38 PM - HttpsLatency - Passed
+5/14/24, 3:42:38 PM - ArcHttp - Started
+5/14/24, 3:42:39 PM - ArcHttp - Passed
+5/14/24, 4:03:17 PM - GatewayCanBePinged - Started
+5/14/24, 4:03:21 PM - GatewayCanBePinged - Passed
+5/14/24, 4:03:21 PM - LanConnectivity - Started
+5/14/24, 4:03:22 PM - LanConnectivity - Passed
+5/14/24, 4:03:22 PM - ArcPing - Started
+5/14/24, 4:03:26 PM - ArcPing - Failed
+5/14/24, 4:03:26 PM - DnsResolverPresent - Started
+5/14/24, 4:03:27 PM - DnsResolverPresent - Passed
+5/14/24, 4:03:27 PM - DnsResolution - Started
+5/14/24, 4:03:28 PM - DnsResolution - Failed
+5/14/24, 4:03:28 PM - DnsLatency - Started
+5/14/24, 4:03:29 PM - DnsLatency - Failed
+5/14/24, 4:03:29 PM - ArcDnsResolution - Started
+5/14/24, 4:03:30 PM - ArcDnsResolution - Passed
+5/14/24, 4:03:30 PM - SignalStrength - Started
+5/14/24, 4:03:31 PM - SignalStrength - Passed
+5/14/24, 4:03:31 PM - CaptivePortal - Started
+5/14/24, 4:03:32 PM - CaptivePortal - Passed
+5/14/24, 4:03:32 PM - HasSecureWiFiConnection - Started
+5/14/24, 4:03:33 PM - HasSecureWiFiConnection - Passed
+5/14/24, 4:03:33 PM - HttpsFirewall - Started
+5/14/24, 4:03:34 PM - HttpsFirewall - Failed
+5/14/24, 4:03:34 PM - HttpFirewall - Started
+5/14/24, 4:03:35 PM - HttpFirewall - Failed
+5/14/24, 4:03:35 PM - HttpsLatency - Started
+5/14/24, 4:03:36 PM - HttpsLatency - Failed
+5/14/24, 4:03:36 PM - ArcHttp - Started
+5/14/24, 4:03:37 PM - ArcHttp - Passed
+5/14/24, 4:26:31 PM - GatewayCanBePinged - Started
+5/14/24, 4:26:34 PM - GatewayCanBePinged - Passed
+5/14/24, 4:26:34 PM - LanConnectivity - Started
+5/14/24, 4:26:35 PM - LanConnectivity - Passed
+5/14/24, 4:26:35 PM - ArcPing - Started
+5/14/24, 4:26:42 PM - ArcPing - Failed
+5/14/24, 4:26:42 PM - DnsResolverPresent - Started
+5/14/24, 4:26:43 PM - DnsResolverPresent - Passed
+5/14/24, 4:26:43 PM - DnsResolution - Started
+5/14/24, 4:26:44 PM - DnsResolution - Failed
+5/14/24, 4:26:44 PM - DnsLatency - Started
+5/14/24, 4:26:45 PM - DnsLatency - Failed
+5/14/24, 4:26:45 PM - ArcDnsResolution - Started
+5/14/24, 4:26:46 PM - ArcDnsResolution - Passed
+5/14/24, 4:26:46 PM - SignalStrength - Started
+5/14/24, 4:26:47 PM - SignalStrength - Passed
+5/14/24, 4:26:47 PM - CaptivePortal - Started
+5/14/24, 4:26:48 PM - CaptivePortal - Passed
+5/14/24, 4:26:48 PM - HasSecureWiFiConnection - Started
+5/14/24, 4:26:49 PM - HasSecureWiFiConnection - Passed
+5/14/24, 4:26:49 PM - HttpsFirewall - Started
+5/14/24, 4:26:50 PM - HttpsFirewall - Failed
+5/14/24, 4:26:50 PM - HttpFirewall - Started
+5/14/24, 4:26:51 PM - HttpFirewall - Failed
+5/14/24, 4:26:51 PM - HttpsLatency - Started
+5/14/24, 4:26:52 PM - HttpsLatency - Failed
+5/14/24, 4:26:52 PM - ArcHttp - Started
+5/14/24, 4:26:54 PM - ArcHttp - Passed
+
+--- Network Events ---
+
+5/14/24, 3:42:05 PM - WiFi network [90:CC:DF:84:9F:4F] started in state Online
+5/14/24, 4:03:14 PM - WiFi network [90:CC:DF:84:9F:4F] changed state from Online to Connecting
+5/14/24, 4:03:16 PM - WiFi network [90:CC:DF:84:9F:4F] changed state from Connecting to Connected
+5/14/24, 4:03:16 PM - WiFi network [90:CC:DF:84:9F:4F] changed state from Connected to Online
+5/14/24, 4:26:28 PM - WiFi network [90:CC:DF:84:9F:4F] changed state from Online to Connecting
+5/14/24, 4:26:31 PM - WiFi network [90:CC:DF:84:9F:4F] changed state from Connecting to Connected
+5/14/24, 4:26:31 PM - WiFi network [90:CC:DF:84:9F:4F] changed state from Connected to Online
